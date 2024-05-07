@@ -125,3 +125,10 @@ a:not(.main) , i {
     margin-right: 10px ;
     padding: 0 !important;
 }
+
+
+@media (max-width:767px) {
+    .test {
+        font-size: 14px;
+    }
+}
